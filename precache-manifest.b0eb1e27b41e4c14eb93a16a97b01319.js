@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "/static/js/OpenSourceProject.d10cb601.chunk.js"
   },
   {
-    "revision": "6ef7ae8fbe578d4892b1",
+    "revision": "1f49d248d9aa305eb9dc",
     "url": "/static/css/main.fafae232.chunk.css"
   },
   {
-    "revision": "6ef7ae8fbe578d4892b1",
-    "url": "/static/js/main.6ef7ae8f.chunk.js"
+    "revision": "1f49d248d9aa305eb9dc",
+    "url": "/static/js/main.1f49d248.chunk.js"
   },
   {
     "revision": "1be2196f97f2141dcb42",
@@ -192,7 +192,7 @@ self.__precacheManifest = [
     "url": "/static/media/logo.3bca661a.svg"
   },
   {
-    "revision": "995d51fb2aecc05a669a526b98c5dde5",
+    "revision": "e94202820e9abb1a9d2e63e8fb9ecc33",
     "url": "/index.html"
   }
 ];
